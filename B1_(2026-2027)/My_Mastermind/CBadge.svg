@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104.4 18" width="104.4" height="18" role="img" aria-label="Language C" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <clipPath id="r"><rect width="104.4" height="18" rx="3" /></clipPath>
+    <linearGradient id="g" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".25"/>
+      <stop offset="1" stop-opacity=".25" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="32.4" height="18" fill="#FFFFFF"/> 
+    <rect x="19.8" width="84.6" height="18" fill="#283593"/> 
+    <rect width="104.8" height="18" fill="url(#g)"/>
+  </g>
+
+  <style type="text/css">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#3949AB;} .st1{fill-rule:evenodd;clip-rule:evenodd;fill:#283593;} .st2{fill-rule:evenodd;clip-rule:evenodd;fill:#5C6BC0;} .st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<g transform="translate(4, 3) scale(0.1)" stroke-linecap="round" stroke-linejoin="round">
+  <path class="st0" d="M107.81,92.16c0.86-1.48,1.39-3.16,1.39-4.66V35.38c0-1.5-0.53-3.17-1.39-4.66L54.6,61.44L107.81,92.16 L107.81,92.16L107.81,92.16z"/>
+  <path class="st1" d="M59.33,121.75l45.14-26.06c1.3-0.75,2.48-2.05,3.34-3.53L54.6,61.44L1.39,92.16c0.86,1.48,2.04,2.78,3.34,3.53 l45.14,26.06C52.47,123.25,56.72,123.25,59.33,121.75L59.33,121.75L59.33,121.75z"/>
+  <path class="st2" d="M107.81,30.72c-0.86-1.48-2.04-2.78-3.34-3.53L59.33,1.13c-2.6-1.5-6.86-1.5-9.46,0L4.73,27.19 C2.13,28.69,0,32.38,0,35.38V87.5c0,1.5,0.53,3.17,1.39,4.66L54.6,61.44L107.81,30.72L107.81,30.72L107.81,30.72z"/>
+  <path class="st3" d="M54.6,97.84c-20.07,0-36.4-16.33-36.4-36.4s16.33-36.4,36.4-36.4c12.95,0,25.03,6.97,31.52,18.19l-15.75,9.12 c-3.25-5.62-9.29-9.1-15.77-9.1c-10.04,0-18.2,8.16-18.2,18.2c0,10.03,8.16,18.2,18.2,18.2c6.48,0,12.52-3.49,15.77-9.1l15.75,9.12 C79.63,90.87,67.55,97.84,54.6,97.84L54.6,97.84L54.6,97.84z"/>
+</g>
+
+  <text x="64" y="10" font-size="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#fff" text-anchor="middle" dominant-baseline="middle">Language C</text>
+</svg>
+

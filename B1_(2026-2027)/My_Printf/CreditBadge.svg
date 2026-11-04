@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="18" role="img" aria-label="EliasFCS: Development">
+  <defs>
+    <clipPath id="r"><rect width="150" height="18" rx="3"/></clipPath>
+    <linearGradient id="g" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".25"/>
+      <stop offset="1" stop-opacity=".25" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="64.8" height="18" fill="#232323"/>
+    <rect x="64.8" width="84.6" height="18" fill="#aaaaaa"/>
+    <rect width="150" height="18" fill="url(#g)"/>
+  </g>
+  <path d="M12 3c-3.31 0-6 2.69-6 6 0 2.65 1.72 4.9 4.1 5.69.3.05.41-.13.41-.29 0-.14-.01-.52-.01-1.02-1.67.36-2.02-.81-2.02-.81-.27-.7-0.67-.89-0.67-.89-.55-.37.04-.37.04-.37.6.04.92.62.92.62.54.92 1.41.65 1.75.5.06-.39.21-.65.39-.8-1.33-.15-2.73-.67-2.73-2.97 0-.65.23-1.19.62-1.61-.06-.15-.27-.76.06-1.59 0 0 .5-.16 1.65.62A5.72 5.72 0 0 1 12 6.55c.51.002 1.02.07 1.5.21 1.14-.78 1.64-.62 1.64-.62.33.83.12 1.44.06 1.59.39.42.62.96.62 1.61 0 2.31-1.4 2.81-2.74 2.96.22.19.41.56.41 1.13 0 .82-.01 1.48-.01 1.68 0 .16.11.35.42.29A6.01 6.01 0 0 0 18 9c0-3.31-2.69-6-6-6z" fill="#fff"/>
+  <text x="22" y="10" font-size="9" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" fill="#fff" text-anchor="start" dominant-baseline="middle">EliasFCS</text>
+  <text x="105" y="10" font-size="10" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" fill="#fff" text-anchor="middle" dominant-baseline="middle">Development</text>
+</svg>
