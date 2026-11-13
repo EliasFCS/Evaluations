@@ -41,7 +41,7 @@
 > #### Colint - CI/CD & DevOps
 > <br />
 >
-> - [ ] AI Prompt Librabry (DevOps)
+> - [ ] AI Prompt Library (DevOps)
 >
 > <br />
 >
