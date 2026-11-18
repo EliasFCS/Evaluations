@@ -184,11 +184,9 @@
 #include <unistd.h>
 #include <stdint.h>
 
-
 int write_unsigned(unsigned long long n, int base, const char *digits) {
     int count = 0;
     
-   
     if (n == 0) {
         if (write(1, &digits[0], 1) < 0) return -1;
         return 1;
@@ -234,7 +232,6 @@ int print_int(va_list *args) {
     if (n < 0) {
         if (write(1, "-", 1) < 0) return -1;
         count++;
-        
         un = (unsigned long long)(-(long long)n);
     } else {
         un = (unsigned long long)n;
@@ -258,7 +255,7 @@ int print_octal(va_list *args) {
 
 int print_hex(va_list *args) {
     unsigned int n = va_arg(*args, unsigned int);
-    return write_unsigned((unsigned long long)n, 16, "0123456789abcdef");
+    return write_unsigned((unsigned long long)n, 16, "0123456789ABCDEF");
 }
 
 int print_pointer(va_list *args) {
@@ -267,7 +264,6 @@ int print_pointer(va_list *args) {
     int count = 0;
 
     if (ptr == NULL) {
-    
         char *null_str = "0x0";
         int i = 0;
         while (null_str[i] != '\0') {
@@ -278,7 +274,8 @@ int print_pointer(va_list *args) {
         return count;
     }
 
-    if (write(1, "0x", 2) < 0) return -1;
+    if (write(1, "0", 1) != 1) return -1;
+    if (write(1, "x", 1) != 1) return -1;
     count += 2;
 
     int res = write_unsigned((unsigned long long)addr, 16, "0123456789abcdef");
