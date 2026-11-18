@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./Banner.svg" alt= "Banner" width="100%" height="auto" />
+<img src="./Readme_assets/Banner.svg" alt= "Banner" width="100%" height="auto" />
 </p>
 
 <br />
@@ -7,15 +7,15 @@
 <div align="center">
 
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noopener">
-  <img src="JavaScriptBadge.svg" alt="JavaScript Badge" width="290" height="55" />
+  <img src="./Readme_assets/JavaScriptBadge.svg" alt="JavaScript Badge" width="290" height="55" />
 </a>
 
 <a href="https://nodejs.org" target="_blank" rel="noopener">
-  <img src="NodejsBadge.svg" alt="Node.js Badge" width="250" height="55" />
+  <img src="./Readme_assets/NodejsBadge.svg" alt="Node.js Badge" width="250" height="55" />
 </a>
 
 <a href="https://expressjs.com" target="_blank" rel="noopener">
-  <img src="ExpressBadge.svg" alt="Express.js Badge" width="210" height="55" />
+  <img src="./Readme_assets/ExpressBadge.svg" alt="Express.js Badge" width="210" height="55" />
 </a>
 
 </div>
@@ -33,7 +33,7 @@
 
 <br />
 
-<img src="ReadmeRessource.jpg" alt="Frank Sinatra" width="200" align="center" />
+<img src="./Readme_assets/ReadmeRessource.jpg" alt="Frank Sinatra" width="200" align="center" />
 
 <br/>
 
@@ -132,7 +132,7 @@
 
 <div align="center">
 
-<img src="ReadmeRessource1.jpg" alt="Logo JavaScript" width="200" align="center" />
+<img src="./Readme_assets/ReadmeRessource1.jpg" alt="Logo JavaScript" width="200" align="center" />
 
 <br />
 
@@ -150,7 +150,7 @@
 <br />
 
 > <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noopener">
->  <img src="JavaScriptBadge.svg" alt="JavaScript Badge" width="250" height="50" />
+>  <img src="./Readme_assets/JavaScriptBadge.svg" alt="JavaScript Badge" width="250" height="50" />
 ></a>
 >
 > <br>
@@ -437,11 +437,11 @@ app.listen(port, () => {
 > <br>
 > 
 > <a href="https://nodejs.org" target="_blank" rel="noopener">
->  <img src="NodejsBadge.svg" alt="Node.js Badge" width="120" height="50" />
+>  <img src="./Readme_assets/NodejsBadge.svg" alt="Node.js Badge" width="120" height="50" />
 > </a>
 > and
 > <a href="https://expressjs.com" target="_blank" rel="noopener">
->  <img src="ExpressBadge.svg" alt="Express.js Badge" width="120" height="50" />
+>  <img src="./Readme_assets/ExpressBadge.svg" alt="Express.js Badge" width="120" height="50" />
 > </a>
 >
 > <br>
@@ -538,5 +538,5 @@ flowchart TB
 <p align="center">
 
 <a href="https://github.com/EliasFCS" target="_blank" rel="noopener">
-  <img src="CreditBadge.svg" alt="EliasFCS Badge" width="450" height="54" />
+  <img src="./Readme_assets/CreditBadge.svg" alt="EliasFCS Badge" width="450" height="54" />
 </a>
