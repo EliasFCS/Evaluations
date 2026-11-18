@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./Banner.svg" alt= "Banner" width="100%" height="auto" />
+<img src="./Readme_assets/Banner.svg" alt= "Banner" width="100%" height="auto" />
 </p>
 
 <br />
@@ -7,15 +7,15 @@
 <div align="center">
 
 <a href="https://docs.getbifrost.ai/deployment-guides/how-to/install-make" target="_blank" rel="noopener">
-  <img src="MakeFileBadge.svg" alt="Makefile Badge" width="250" height="45" />
+  <img src="./Readme_assets/MakeFileBadge.svg" alt="Makefile Badge" width="250" height="45" />
 </a>
 
 <a href="https://koor.fr/C/Tutorial/Qualificateurs.wp" target="_blank" rel="noopener">
-  <img src="HeaderCBadge.svg" alt="Header C Badge" width="250" height="45" />
+  <img src="./Readme_assets/HeaderCBadge.svg" alt="Header C Badge" width="250" height="45" />
 </a>
 
 <a href="https://koor.fr/C/Tutorial/Index.wp" target="_blank" rel="noopener">
-  <img src="CBadge.svg" alt="Language C Badge" width="250" height="49" />
+  <img src="./Readme_assets/CBadge.svg" alt="Language C Badge" width="250" height="49" />
 </a>
 
 </div>
@@ -33,7 +33,7 @@
 
 <br />
 
-<img src="ReadmeRessource.jpg" alt="Mastermind Board Game" width="200" align="center">
+<img src="./Readme_assets/ReadmeRessource.jpg" alt="Mastermind Board Game" width="200" align="center">
 
 <br/>
 
@@ -130,7 +130,7 @@
 
 <div align="center">
 
-<img src="ReadmeRessource1.jpg" alt="Logo C" width="200" align="center">
+<img src="./Readme_assets/ReadmeRessource1.jpg" alt="Logo C" width="200" align="center">
 
 <br />
 
@@ -147,7 +147,7 @@
 <br />
 
 > <a href="https://docs.getbifrost.ai/deployment-guides/how-to/install-make" target="_blank" rel="noopener">
->  <img src="MakeFileBadge.svg" alt="Makefile Badge" width="250" height="50" />
+>  <img src="./Readme_assets/MakeFileBadge.svg" alt="Makefile Badge" width="250" height="50" />
 > </a>
 > <br>
 > <br>
@@ -208,7 +208,7 @@ re: fclean all
 <br />
 
 > <a href="https://koor.fr/C/Tutorial/Qualificateurs.wp" target="_blank" rel="noopener">
->  <img src="HeaderCBadge.svg" alt="Header C Badge" width="150" height="50" />
+>  <img src="./Readme_assets/HeaderCBadge.svg" alt="Header C Badge" width="150" height="50" />
 > </a>
 > <br>
 > <br>
@@ -301,7 +301,7 @@ int read_guess(char *buffer);
 <br />
 
 > <a href="https://koor.fr/C/Tutorial/Index.wp" target="_blank" rel="noopener">
->  <img src="CBadge.svg" alt="C Badge" width="250" height="50" />
+>  <img src="./Readme_assets/CBadge.svg" alt="C Badge" width="250" height="50" />
 > </a>
 >
 > <br />
@@ -415,7 +415,7 @@ int main(int argc, char **argv)
 <br />
 
 > <a href="https://koor.fr/C/Tutorial/Index.wp" target="_blank" rel="noopener">
->  <img src="CBadge.svg" alt="C Badge" width="250" height="50" />
+>  <img src="./Readme_assets/CBadge.svg" alt="C Badge" width="250" height="50" />
 > </a>
 >
 > <br />
@@ -473,7 +473,7 @@ int my_atoi(const char *str)
 <br />
 
 > <a href="https://koor.fr/C/Tutorial/Index.wp" target="_blank" rel="noopener">
->  <img src="CBadge.svg" alt="C Badge" width="250" height="50" />
+>  <img src="./Readme_assets/CBadge.svg" alt="C Badge" width="250" height="50" />
 > </a>
 >
 > <br />
@@ -546,7 +546,7 @@ char *generate_random_code(void)
 <br />
 
 > <a href="https://koor.fr/C/Tutorial/Index.wp" target="_blank" rel="noopener">
->  <img src="CBadge.svg" alt="C Badge" width="250" height="50" />
+>  <img src="./Readme_assets/CBadge.svg" alt="C Badge" width="250" height="50" />
 > </a>
 >
 > <br />
@@ -834,11 +834,11 @@ void evaluate_guess(const char *secret, const char *guess,
 > <br>
 > 
 > <a href="https://code.visualstudio.com/docs/cpp/config-mingw" target="_blank" rel="noopener">
->  <img src="GccBadge.svg" alt="GCC Badge" width="80" height="50" /> 
+>  <img src="./Readme_assets/GccBadge.svg" alt="GCC Badge" width="80" height="50" /> 
 > </a>
 >  and
 > <a href="https://docs.getbifrost.ai/deployment-guides/how-to/install-make" target="_blank" rel="noopener">
->  <img src="MakeFileBadge.svg" alt="Makefile Badge" width="150" height="50" /> 
+>  <img src="./Readme_assets/MakeFileBadge.svg" alt="Makefile Badge" width="150" height="50" /> 
 > </a> 
 > 
 > <br>
@@ -994,7 +994,7 @@ flowchart TB
 <p align="center">
 
 <a href="https://github.com/EliasFCS" target="_blank" rel="noopener">
-  <img src="CreditBadge.svg" alt="EliasFCS Badge" width="450" height="54" />
+  <img src="./Readme_assets/CreditBadge.svg" alt="EliasFCS Badge" width="450" height="54" />
 </a>
 
 </div>
