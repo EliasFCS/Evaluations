@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Banner.png" alt="Banner" width="100%" height="auto" />
+<img src="./Readme_assets/Banner.png" alt="Banner" width="100%" height="auto" />
 </p>
 
 <br />
@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="" target="_blank" rel="noopener">
-  <img src="CBadge.svg" alt="C Language Badge" width="250" height="49" />
+  <img src="./Readme_assets/CBadge.svg" alt="C Language Badge" width="250" height="49" />
 </a>
 
 </div>
@@ -25,7 +25,7 @@
 
 <br />
 
-<img src="ReadmeRessource.jpg" alt="Christmas Tree" width="200" align="center">
+<img src="./Readme_assets/ReadmeRessource.jpg" alt="Christmas Tree" width="200" align="center">
 
 <br/>
 
@@ -120,7 +120,7 @@
 
 <div align="center">
 
-<img src="ReadmeRessource1.jpg" alt="C Language Logo" width="200" align="center">
+<img src="./Readme_assets/ReadmeRessource1.jpg" alt="C Language Logo" width="200" align="center">
 
 <br>
 
@@ -136,7 +136,7 @@
 <br />
 
 ><a href="" target="_blank" rel="noopener">
->  <img src="CBadge.svg" alt="C Language Badge" width="250" height="50" />
+>  <img src="./Readme_assets/CBadge.svg" alt="C Language Badge" width="250" height="50" />
 ></a>
 >
 > <br />
@@ -366,7 +366,7 @@ int main(int argc, char **argv) {
 > <br />
 >
 > <a href="https://code.visualstudio.com/docs/cpp/config-mingw" target="_blank" rel="noopener">
->  <img src="GccBadge.svg" alt="GCC Badge" width="80" height="50" />
+>  <img src="./Readme_assets/GccBadge.svg" alt="GCC Badge" width="80" height="50" />
 > </a>
 >
 > <br />
@@ -468,5 +468,5 @@ flowchart TB
 <p align="center">
 
 <a href="https://github.com/EliasFCS" target="_blank" rel="noopener">
-  <img src="CreditBadge.svg" alt="EliasFCS Badge" width="450" height="54" />
+  <img src="./Readme_assets/CreditBadge.svg" alt="EliasFCS Badge" width="450" height="54" />
 </a>
