@@ -1,5 +1,8 @@
 <p align="center">
-<img src="./Readme_assets/Banner.png" alt="Banner" width="100%" height="auto" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Readme_assets/Banner-dark.png">
+  <img src="./Readme_assets/Banner-light.png" alt="Banner"  width="100%" height="auto" />
+</picture>
 </p>
 
 <br />
